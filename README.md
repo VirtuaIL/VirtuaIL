@@ -8,7 +8,7 @@ I’m a junior frontend developer dedicated to building clean, responsive, and u
 
 <b>🎮 Hobbies:</b><br/> Exploring game development and working on side projects with Godot Engine<br/>
 
-<b>📫 Let’s Connect:</b><br/> I’m always happy to collaborate! Reach out anytime.
+<b>📫 Contact:</b><br/> Reach out anytime.
 
 
 # 💻 Tech Stack:
