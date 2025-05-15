@@ -14,6 +14,7 @@ I’m a junior frontend developer dedicated to building clean, responsive, and u
 
 
 # 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=VirtuaIL&theme=dark&hide_border=false)<br/>
 ![Krzysztof GitHub stats](https://github-readme-stats.vercel.app/api?username=VirtuaIL&theme=dark&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtuaIL&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!--[![Krzysztof GitHub stats](https://github-readme-stats.vercel.app/api?username=VirtuaIL)](https://github.com/VirtuaIL/github-readme-stats)-->
