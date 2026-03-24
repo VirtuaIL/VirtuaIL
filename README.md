@@ -1,6 +1,6 @@
 # About Me:
 ### Hi, I'm Krzysztof!
-Passionate about algorithms and game development. I enjoy learning through hands-on projects - from solving algorithmic problems to building small games in my free time.
+Passionate about algorithms and game development. I enjoy solving algorithmic problems and building small games in my free time.
 
 <b>👨‍🎓 Education:</b><br/> Pursuing a degree in Computer Science at Politechnika Łódzka, Poland<br/>
 
