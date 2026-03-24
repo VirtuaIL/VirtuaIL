@@ -2,9 +2,9 @@
 ### Hi, I'm Krzysztof!
 Passionate about algorithms and game development. I enjoy solving algorithmic problems and building small games in my free time.
 
-<b>👨‍🎓 Education:</b><br/> Pursuing a degree in Computer Science at Politechnika Łódzka, Poland<br/>
+<b>👨‍🎓 Education:</b><br/> Pursuing a degree in Applied Computer Science at Politechnika Łódzka, Poland<br/>
 
-<b>🎮 Hobbies:</b><br/> Exploring game development and working on side projects with Godot Engine<br/>
+<b>🎮 Hobbies:</b><br/> Exploring game development and working on side projects <br/>
 
 
 
