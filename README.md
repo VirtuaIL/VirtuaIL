@@ -1,4 +1,4 @@
-# 👋 About Me:
+# About Me:
 ### Hi, I'm Krzysztof!
 Passionate about algorithms and game development. I enjoy learning through hands-on projects - from solving algorithmic problems to building small games in my free time.
 
@@ -21,6 +21,4 @@ Passionate about algorithms and game development. I enjoy learning through hands
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=VirtuaIL&theme=dark&hide_border=false)<br/>
-![Krzysztof GitHub stats](https://github-readme-stats.vercel.app/api?username=VirtuaIL&theme=dark&show_icons=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VirtuaIL&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
