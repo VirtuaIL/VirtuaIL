@@ -1,12 +1,8 @@
 # About Me:
-### Hi, I'm Krzysztof!
-Passionate about algorithms and game development. I enjoy solving algorithmic problems and building small games in my free time.
 
 <b>👨‍🎓 Education:</b><br/> Pursuing a degree in Applied Computer Science at Politechnika Łódzka, Poland<br/>
 
 <b>🎮 Hobbies:</b><br/> Exploring game development and working on side projects <br/>
-
-
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
